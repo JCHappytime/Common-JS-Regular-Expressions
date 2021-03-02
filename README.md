@@ -88,11 +88,22 @@ function formatPhone(val) {
 }
 ```
 
-测试如下：
+测试：
 
 ![手机号](https://user-images.githubusercontent.com/10249805/109583433-de21aa80-7b3a-11eb-98dd-c8b09c2f6f74.png)
 
-2. 格式化金钱，每三位添加逗号","
+2. 格式化金额，每三位添加逗号","
+
+```
+function formatMoney(val) {
+  if (!val) return;
+  return val.toString().replace(/(?=\B(?:\d{3})+\b)(\d{3}(?:\.\d+$)?)/g,',$1');
+}
+```
+测试：
+
+![money](https://user-images.githubusercontent.com/10249805/109586683-a7e72980-7b40-11eb-8bd6-f102b7771dea.png)
+
 
 
 
