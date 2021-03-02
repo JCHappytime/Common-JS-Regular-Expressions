@@ -32,20 +32,7 @@ reg=/\d{3}-\d{8}|\d{4}-\{7,8}/
 
 reg.test(028-86768888);   //=>true
 ```
-【思考】手机号码中间四位用*号代替
-```
-function formatPhone(val) {
-  if (!val) return;
-  return val.replace(/^(\d{3})(\d{4})(\d+)/, '$1****$3');
-}
-```
-
-测试如下：
-
-![手机号](https://user-images.githubusercontent.com/10249805/109583433-de21aa80-7b3a-11eb-98dd-c8b09c2f6f74.png)
-
-
-
+【思考】如何格式化手机号码，隐藏中间四位数字。见[格式化相关](#格式化相关)
 2. 18位身份证号码
 ```
 reg=/^(\d{6})(\d{4})(\d{2})(\d{2})(\d{3})([0-9]|X|x)$/
@@ -77,7 +64,6 @@ reg.test('jctest@163.com');   //=>true
 ```
 
 
-
 ## 其他
 1. 域名，DNS规定，域名中的标号都由英文歌数字组成，每一个标号不超过63个字符（为了方便记忆，一般也不会超过12个字符），也不区分大小写字母。标号中除了连字符（-）外不能使用其他的标点符号。
 ```
@@ -86,4 +72,21 @@ reg=/^(?=^.{3,255}$)[a-z0-9][-a-z0-9]{0,62}(\.[a-z0-9][-a-z0-9]{0,62})+$/
 reg.test('baidu.com');   //=>true
 reg.test('baidu中国.com');   //=>false
 ```
+
+## 格式化相关
+
+1. 隐藏手机号，中间四位用*号代替
+```
+function formatPhone(val) {
+  if (!val) return;
+  return val.replace(/^(\d{3})(\d{4})(\d+)/, '$1****$3');
+}
+```
+
+测试如下：
+
+![手机号](https://user-images.githubusercontent.com/10249805/109583433-de21aa80-7b3a-11eb-98dd-c8b09c2f6f74.png)
+
+
+
 
