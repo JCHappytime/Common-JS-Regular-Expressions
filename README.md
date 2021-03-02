@@ -32,6 +32,18 @@ reg=/\d{3}-\d{8}|\d{4}-\{7,8}/
 
 reg.test(028-86768888);   //=>true
 ```
+【思考】手机号码中间四位用*号代替
+```
+function formatPhone(val) {
+  if (!val) return;
+  return val.replace(/^(\d{3})(\d{4})(\d+)/, '$1****$3');
+}
+```
+测试如下：
+![手机号](https://user-images.githubusercontent.com/10249805/109583433-de21aa80-7b3a-11eb-98dd-c8b09c2f6f74.png)
+
+
+
 2. 18位身份证号码
 ```
 reg=/^(\d{6})(\d{4})(\d{2})(\d{2})(\d{3})([0-9]|X|x)$/
