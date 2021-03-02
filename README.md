@@ -39,7 +39,9 @@ function formatPhone(val) {
   return val.replace(/^(\d{3})(\d{4})(\d+)/, '$1****$3');
 }
 ```
+
 测试如下：
+
 ![手机号](https://user-images.githubusercontent.com/10249805/109583433-de21aa80-7b3a-11eb-98dd-c8b09c2f6f74.png)
 
 
