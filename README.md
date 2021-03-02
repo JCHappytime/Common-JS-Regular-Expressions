@@ -92,6 +92,7 @@ function formatPhone(val) {
 
 ![手机号](https://user-images.githubusercontent.com/10249805/109583433-de21aa80-7b3a-11eb-98dd-c8b09c2f6f74.png)
 
+2. 格式化金钱，每三位添加逗号","
 
 
 
