@@ -59,6 +59,7 @@ reg=/[1-9]\d{5}(?!\d)/
 reg.test(620000);   // =>true
 reg.test(6200001);   // =>false
 ```
+
 ## 地址类
 
 1. Email地址
