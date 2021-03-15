@@ -110,7 +110,7 @@ reg1=/^([0-9a-zA-Z]+[\.\-_])*[0-9a-zA-Z]+$/
 reg2=/^[0-9a-z]([0-9a-z]|-|_|\.)*[0-9a-z]$/
 
 reg2.test('test---');  // => false
-reg.test('test-01');   // =>
+reg.test('test-01');   // => true
 ```
 
 
