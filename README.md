@@ -8,6 +8,8 @@
 
 ### 目录
 
+1. [简单易懂的正则表达式学习资料-随时唤醒你的正则记忆](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/1)
+
 ## 密码类
 1. 6-16位，区分大小写（不能是9位以下的纯数字，不含空格）
 ```
