@@ -15,7 +15,9 @@
 
 ### （二）一些常用的正则表达式
 
-### 密码类
+### 目录
+
+- [1. 密码类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/2)
 
 
 
