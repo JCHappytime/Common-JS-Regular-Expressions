@@ -4,7 +4,7 @@
 - 在线测试地址：[正则表达式在线测试工具](https://c.runoob.com/front-end/854)
 - 订阅请点Watch，收藏请点Star 👋👋👋
 
-## 正则表达式学习分享
+## （一）正则表达式学习分享
 
 在正式开始正则表达式的内容之前，先分享一些正则的学习资料和简单的正则表达式所表示的意思。
 
@@ -13,7 +13,7 @@
 1. [简单易懂的正则表达式学习资料-随时唤醒你的正则记忆](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/1)
 2. [入门级的正则表达式知识](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/2)
 
-### 一些常用的正则表达式
+### （二）一些常用的正则表达式
 
 ### 密码类
 1. 6-16位，区分大小写（不能是9位以下的纯数字，不含空格）
