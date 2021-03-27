@@ -22,8 +22,6 @@
 - [3. 地址类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/5)
 
 
-## 地址类
-
 
 
 ## 其他
