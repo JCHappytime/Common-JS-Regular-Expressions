@@ -17,9 +17,9 @@
 
 ### 目录
 
-- [1. 密码类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/2)
+- [1. 密码类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/3)
 - [2. 号码类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/4)
-- [3. 地址类]()
+- [3. 地址类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/5)
 
 
 ## 地址类
