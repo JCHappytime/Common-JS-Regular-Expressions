@@ -25,19 +25,6 @@
 - [6. 格式化-隐藏手机后四位，用*号代替]
 
 
-## 格式化相关
-
-1. 隐藏手机号，中间四位用*号代替
-```
-function formatPhone(val) {
-  if (!val) return;
-  return val.replace(/^(\d{3})(\d{4})(\d+)/, '$1****$3');
-}
-```
-
-测试：
-
-![手机号](https://user-images.githubusercontent.com/10249805/109583433-de21aa80-7b3a-11eb-98dd-c8b09c2f6f74.png)
 
 2. 格式化金额，每三位添加逗号","
 
