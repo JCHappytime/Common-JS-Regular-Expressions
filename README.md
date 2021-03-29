@@ -24,7 +24,7 @@
 - [5. 包含数字，字母和（.-_），特殊字符不能出现在首尾且不能连续](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/7)
 - [6. 格式化——隐藏手机后四位，用*号代替](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/8)
 - [7. 格式化——格式化金额，每三位添加逗号","](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/9)
-
+- [8. 格式化——去掉字符串中的空格]
 
 
 
