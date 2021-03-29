@@ -26,17 +26,7 @@
 
 
 
-2. 格式化金额，每三位添加逗号","
 
-```
-function formatMoney(val) {
-  if (!val) return;
-  return val.toString().replace(/(?=\B(?:\d{3})+\b)(\d{3}(?:\.\d+$)?)/g,',$1');
-}
-```
-测试：
-
-![money](https://user-images.githubusercontent.com/10249805/109586683-a7e72980-7b40-11eb-8bd6-f102b7771dea.png)
 
 3. 去掉字符串中的空格
 
