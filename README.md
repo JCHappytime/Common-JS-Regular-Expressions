@@ -22,7 +22,7 @@
 - [3. 地址类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/5)
 - [4. 域名类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/6)
 - [5. 包含数字，字母和（.-_），特殊字符不能出现在首尾且不能连续](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/7)
-
+- [6. 格式化-隐藏手机后四位，用*号代替]
 
 
 ## 格式化相关
