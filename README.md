@@ -28,16 +28,6 @@
 
 
 
-3. 去掉字符串中的空格
 
-```
-let reg=/([^\s])\s+([^\s\b])/g;
-let str = 'jc jt jl jm';
-
-str = str.replace(reg, '$1$2');   //=>jcjtjljm
-```
-测试：
-
-![去掉空格](https://user-images.githubusercontent.com/10249805/109587076-673be000-7b41-11eb-8f9f-e335019cccbd.png)
 
 
