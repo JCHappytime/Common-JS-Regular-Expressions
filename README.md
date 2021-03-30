@@ -13,7 +13,7 @@
 1. [简单易懂的正则表达式学习资料-随时唤醒你的正则记忆](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/1)
 2. [入门级的正则表达式知识](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/2)
 
-### （二）一些常用的正则表达式
+## （二）一些常用的正则表达式
 
 ### 目录
 
@@ -22,7 +22,10 @@
 - [3. 地址类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/5)
 - [4. 域名类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/6)
 - [5. 包含数字，字母和（.-_），特殊字符不能出现在首尾且不能连续](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/7)
-- [6. 格式化——隐藏手机后四位，用*号代替](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/8)
-- [7. 格式化——格式化金额，每三位添加逗号","](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/9)
-- [8. 格式化——去掉字符串中的空格](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/10)
+
+
+
+## （三）格式化相关
+
+### 目录
 
