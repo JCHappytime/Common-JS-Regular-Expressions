@@ -23,7 +23,7 @@
 - [4. 域名类](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/6)
 - [5. 包含数字，字母和（.-_），特殊字符不能出现在首尾且不能连续](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/7)
 - [6. 数字类正则表达式](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/11)
-- [7. 字符类正则表达式]
+- [7. 字符类正则表达式](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/11)
 
 
 ## （三）格式化相关
