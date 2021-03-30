@@ -29,3 +29,9 @@
 
 ### 目录
 
+- [1. 格式化——隐藏手机后四位，用*号代替](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/8)
+- [2. 格式化——格式化金额，每三位添加逗号","](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/9)
+- [3. 格式化——去掉字符串中的空格](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/10)
+
+
+
