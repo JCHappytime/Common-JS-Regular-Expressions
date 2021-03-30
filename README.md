@@ -26,8 +26,3 @@
 - [7. 格式化——格式化金额，每三位添加逗号","](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/9)
 - [8. 格式化——去掉字符串中的空格](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/10)
 
-
-
-
-
-
