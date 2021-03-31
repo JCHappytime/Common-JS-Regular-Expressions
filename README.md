@@ -15,7 +15,7 @@
 - [3. 如何在表达式中设置区分大小写？](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/13)
 - [4. 正则表达式中字符出现的次数设置](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/14)
 - [5. 正则表达式的应用实例](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/15)
-- [6. 括号及反向作用]
+- [6. 括号及反向引用]()
 
 ## （二）一些常用的正则表达式
 
