@@ -14,6 +14,7 @@
 - [2. 入门级的正则表达式知识](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/2)
 - [3. 如何在表达式中设置区分大小写？](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/13)
 - [4. 正则表达式中字符出现的次数设置](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/14)
+- [5. 正则表达式验证控制文本框的输入字符类型](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/15)
 
 ## （二）一些常用的正则表达式
 
