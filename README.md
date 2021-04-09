@@ -31,7 +31,7 @@
 - [8. 金额（可能包含小数）、时间的表示、温度](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/17)
 
 
-## （三）格式化相关
+## 三、格式化相关
 
 ### 目录
 
