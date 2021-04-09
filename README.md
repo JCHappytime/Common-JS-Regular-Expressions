@@ -17,7 +17,7 @@
 - [5. 正则表达式的应用实例](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/15)
 - [6. 括号及反向引用](https://github.com/JCHappytime/Common-JS-Regular-Expressions/issues/16)
 
-## （二）一些常用的正则表达式
+## 二、一些常用的正则表达式
 
 ### 目录
 
